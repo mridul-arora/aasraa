@@ -42,3 +42,7 @@ left me its #f8f8f8
 
 demo 243 ::: margin, padding right boxes
 fix content 227 margin 
+
+<img src=\"img/random.jpg\">
+
+margin : top right bottom left
