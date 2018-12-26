@@ -35,3 +35,10 @@ https://colorlib.com/preview/#jackson ::: recent work has colors
 
 ZAADA FALTU KI MEHNAT KARLI
 
+
+right me border color is #e1e2e5
+right me bg color is 
+left me its #f8f8f8
+
+demo 243 ::: margin, padding right boxes
+fix content 227 margin 

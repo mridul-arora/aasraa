@@ -40,9 +40,9 @@
 	position: fixed;
 	top: 120px;
 	left: 0;
-	width: 300px;
+	width: 250px;
 	height: calc(100vh - 120px);
-	background: #1c1d22;
+	background: #f8f8f8;
 }
 
 .menu__wrap {
