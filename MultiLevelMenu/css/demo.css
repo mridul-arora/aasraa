@@ -310,9 +310,13 @@ body #cdawrap a:hover.carbon-poweredby {
     }
 
     .product {
-        width: 250px;
-        height: 250px;
+        width: 340px;
+        height: 340px;
+        vertical-align: middle;
+        font-size: 220px;
         text-align: center;
+        color: #e1e2e5;
+        padding-top: 40px;
     }
 
     body,
@@ -335,5 +339,9 @@ body #cdawrap a:hover.carbon-poweredby {
         height: 280px;
         margin: 10px;
         border-radius: 5px;
+        font-size: 200px;
+        vertical-align: middle;
+        text-align: center;
+        color: #e1e2e5;
     }
 }
