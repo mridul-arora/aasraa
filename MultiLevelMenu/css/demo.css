@@ -256,38 +256,6 @@ a:hover {
     color: #e1e2e5;
 }
 
-.product .foodicon {
-    font-size: 4em;
-    line-height: 190px;
-    /*	color: #3b3d4a;*/
-}
-
-.info {
-    font-size: 1.1em;
-    font-weight: bold;
-    padding: 20vh 1em 0;
-    text-align: center;
-    color: #47484c;
-}
-
-body #cdawrap {
-    top: auto;
-    bottom: 15px;
-    background: rgba(0, 0, 0, 0.1);
-}
-
-body #cdawrap .carbon-text {
-    color: #505158;
-}
-
-body #cdawrap a.carbon-poweredby {
-    color: #7883c4;
-}
-
-body #cdawrap a:hover.carbon-poweredby {
-    color: #fff;
-}
-
 @media screen and (max-width: 40em) {
 
     .bp-header {
@@ -344,4 +312,5 @@ body #cdawrap a:hover.carbon-poweredby {
         text-align: center;
         color: #e1e2e5;
     }
+
 }
