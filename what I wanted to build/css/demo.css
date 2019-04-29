@@ -227,7 +227,7 @@ a:hover {
 }
 
 .content {
-    position: relative;
+    /*position: relative;*/
     min-height: 250px;
     margin: 20px 20px 20px 270px;
     text-align: center;
