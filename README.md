@@ -3,6 +3,7 @@
 
 <b>How I visualized it: </b>
 
-![How I visualized it](https://github.com/mridul-arora/aasraa/blob/master/Screenshots/Day%201.png)
+![1](https://github.com/mridul-arora/aasraa/blob/master/Screenshots/1.png)
+![2](https://github.com/mridul-arora/aasraa/blob/master/Screenshots/2.png)
 
 
